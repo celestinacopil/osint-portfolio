@@ -1,5 +1,6 @@
 ---
 title: "Celestina Copil | OSINT & Investigations"
+layout: default
 ---
 
 # Welcome
