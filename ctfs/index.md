@@ -1,3 +1,8 @@
+---
+layout: default
+title: CTFs
+---
+
 # CTF Challenges
 
 Technical challenges, solutions, and methodologies. 
