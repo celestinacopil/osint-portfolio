@@ -13,7 +13,7 @@ I'm an International Security student interested in OSINT, geopolitics, and inve
 
 <div class="project">
 
-## Investigations
+### Investigations
 
 A collection of my independent research and open-source investigations.
 
@@ -23,22 +23,11 @@ A collection of my independent research and open-source investigations.
 
 <div class="project">
 
-## CTF Write-ups
+### CTF Write-ups
 
 Notes, solutions, and lessons learned from Capture The Flag challenges.
 
 [Explore my CTF write-ups](ctfs/ctfs.md)
-
-</div>
-
-
-<div class="project">
-
-## CTF Write-ups
-
-Notes, solutions, and lessons learned from Capture The Flag challenges.
-
-[Explore my CTF write-ups](ctfs.md)
 
 </div>
 
