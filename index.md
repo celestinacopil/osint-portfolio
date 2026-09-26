@@ -1,6 +1,6 @@
 # Welcome
 
-I'm an International Security student interested in OSINT, geopolitics, and investigative research. Here, I share my investigations, CTF write-ups, and projects as I explore open-source intelligence and develop my research and technical skills.
+I'm an International Security student interested in OSINT, geopolitics, and investigative research. This website brings together some of my work, from documenting my methodology while solving CTF challenges to some independent investigations and research projects.
 
 ## Investigations
 
