@@ -1,5 +1,5 @@
 ---
-title: "Celestina Copil | OSINT & Investigations"
+title: "name| OSINT & Investigations"
 layout: default
 ---
 
