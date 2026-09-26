@@ -17,7 +17,7 @@ I'm an International Security student interested in OSINT, geopolitics, and inve
 
 A collection of my independent research and open-source investigations.
 
-[Explore my investigations](investigations.md)
+[Explore my investigations](investigations/investigations.md)
 
 </div>
 
@@ -27,7 +27,7 @@ A collection of my independent research and open-source investigations.
 
 Notes, solutions, and lessons learned from Capture The Flag challenges.
 
-[Explore my CTF write-ups](ctfs.md)
+[Explore my CTF write-ups](ctfs/ctfs.md)
 
 </div>
 
