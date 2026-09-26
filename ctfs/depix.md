@@ -28,8 +28,8 @@ The first step was decyphering the layout of the ticket, in order to understand 
 is the 9th of June 2013 the date of departure, the day of acquisition or a code that just coincidentally resembles a date? does 49U / LAX mean anything? 
 Is LAX the IATA of the airport of departure, maybe?
 
-I answered these questions by looking up images of American Airline boarding passes. Two examples confirmed that the 2-letter code in the bottom right
-represents, indeed, the IATA of the departure airport. 
+I answered these questions by looking up images of American Airline boarding passes (including a separate search for 2013). Two examples confirmed that the 3-letter code in the bottom right represents, indeed, the IATA of the departure airport. 
 
-> First clue: LAX -> the airport of departure is Los Angeles International Airport. 
+>First clue: LAX -> the airport of departure is Los Angeles International Airport.
 
+The second step, for me, was to find out whether the PNR code contains any information. 
